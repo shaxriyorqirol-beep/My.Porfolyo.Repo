@@ -18,3 +18,19 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+/* one link */
+
+.intro {
+    font-size: 18px;
+    color: darkblue;
+    text-align: center;
+}
+
+.github {
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 50px;
+    border-color: yellowgreen;
+}
