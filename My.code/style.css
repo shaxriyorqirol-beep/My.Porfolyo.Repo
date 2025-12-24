@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 15px 80px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+header .logo {
+  font-size: 30px;
+  color: #333;
+  font-weight: bold;
+  text-decoration: none;
+}
